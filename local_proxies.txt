@@ -1,6 +1,6 @@
-http://ip:port
-socks4://ip:port
-socks5://ip:port
+http://104.207.54.235:3128
+socks4://8.215.12.103:8006
+socks5://103.110.89.74:5678
 http://user:pass@ip:port
 socks4://user:pass@ip:port
 socks5://user:pass@ip:port
